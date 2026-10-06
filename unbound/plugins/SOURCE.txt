@@ -1,0 +1,14 @@
+Source and build information
+
+Source repository: https://github.com/castdrian/unbound-plugins
+Source commit: 1eb92b441c4a4ac2f1de7e79ee14700713296de7
+Source directory: plugins (all 34 plugins)
+Build date: 2026-10-06
+
+The original authors, plugin IDs, descriptions, and versions remain in each manifest. Plugin source files were not changed. These are independently compiled builds, not official releases by the original developers.
+
+Built with the upstream Rollup configurations and pinned dependencies from the upstream lockfile. Channel Typing Indicators uses the upstream hermesExpressionEntrypoint helper with hasSettingsPanel enabled so its existing settings can open.
+
+For URL installation, each compiled index.js is named after its plugin. Each matching JSON manifest points to that adjacent JavaScript filename through its main field.
+
+Validation: 34 successful builds; 34 bundle and manifest checks; 282 passing tests, 0 failing tests. Not tested on an iPhone or against a live Discord client.
