@@ -1,0 +1,15 @@
+Source and build information
+
+Source repository: https://github.com/castdrian/unbound-plugins
+Source directory: plugins/no-blocked-messages
+Source commit: 1eb92b441c4a4ac2f1de7e79ee14700713296de7
+Source URL: https://github.com/castdrian/unbound-plugins/tree/1eb92b441c4a4ac2f1de7e79ee14700713296de7/plugins/no-blocked-messages
+Plugin: No Blocked Messages 1.0.0
+Authors: rushii, Samu, jamesbt365, Unbound Team
+
+Built on 2026-10-06 using the upstream Rollup configuration, including its Hermes expression wrapper. The upstream plugin source was not changed. The compiled manifest changes main from index.tsx to index.js as directed by the upstream build configuration.
+
+This is a locally compiled package, not an official release by the developer.
+
+SHA-256 index.js: 63e6b544a6bb4bcfae4a99dea727ad64f25388ede546bf6ee516fdb900cb297a
+SHA-256 manifest.json: 2acf587bdaaee467560bc0f0f926a5423eee62164274d4a6b339fe4b5cd79b24
